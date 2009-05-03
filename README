@@ -1,0 +1,9 @@
+Circles
+=======
+
+Dave Arter <davearter@gmail.com>, 2009
+
+What?
+-----
+
+Just a stupid iPhone app that uses CoreGraphics to render some circles on the screen, the colours of which are determined by the accelerometer values of a remote peer connected via GameKit.
